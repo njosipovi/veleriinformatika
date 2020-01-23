@@ -1,0 +1,2 @@
+# veleriinformatika
+Projekt za inf
